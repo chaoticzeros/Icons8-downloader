@@ -6,8 +6,8 @@ import requests
 
 # Enter URL of icon category to download
 
-PACK = "flat_round"
-DEFAULT_SIZE = "2x"
+PACK = "fluent"
+DEFAULT_SIZE = "96"
 
 URL = "https://icons8.com/icons/" + PACK
 
